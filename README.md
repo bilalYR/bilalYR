@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bilalYR
 - 👀 I’m interested in reactJS
 - 🌱 I’m currently learning web developing 
-- 💞️ I’m looking to collaborate on web
+- 💞️ I’m looking to collaborate on web/asp.net
 - 📫 How to reach me: bilalahmed32122@gmail.com
 
 <!---
